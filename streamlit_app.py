@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Selamat Datang di Web Informatika")
+st.title("Selamat Datang di Web New York Informatika")
 st.write(
     "ngoding seru bersama Zaina Valerie"
 )
